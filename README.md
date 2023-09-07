@@ -8,7 +8,7 @@ Right now there's no solution to prevent this from happening, you can only try t
 # Basic "brick" after apt update && apt upgrade
 
 That's pretty easy - if you still have access to your Klipper via WiFi, you only need USB drive, any size & type really, all it has to be is FAT32 formatted.
-In this git, I have uploaded DEB file from Sovol (it's zipped and split into two parts, it won't let me upload file bigger than 25MB, so you have to download **BOTH** files and unzip it), it's matching SV07 and SV07 Plus, however please be aware - printer.cfg is different for both, because of size, so you might need to use yours or I'll provide stock cfg files here as well.
+In this git, I have uploaded DEB file from Sovol (it's zipped so you have to download it and unzip it), it's matching SV07 and SV07 Plus, however please be aware - printer.cfg is different for both, because of size, so you might need to use yours or I'll provide stock cfg files here as well.
 
 When you have file unzipped just copy it into your flash drive, without any directories inside, armbian-update.deb must be in main directory of your USB drive.
 ![usb1](img/usb1.png)

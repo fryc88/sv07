@@ -18,3 +18,6 @@ Turn on your "bricked" printer, give it a minute or two to start, LEDs at the to
 ![welcome](img/welcome.jpg)
 
 If it didn't happen and you didn't get your screen back, you need to follow other steps here, or follow Tomas's guide once it's released.
+
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fryc88)
